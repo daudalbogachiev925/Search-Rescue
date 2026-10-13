@@ -1,0 +1,10 @@
+thermal:
+  min_temp_c: 28
+  max_temp_c: 42
+rgb:
+  conf: 0.3
+fusion:
+  iou_threshold: 0.2
+mission:
+  drone_speed_mps: 15
+  sensor_width_m: 50
